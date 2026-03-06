@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Aboubacar Bagayoko, an Embedded Software and IOT Engineer from France with a Master's degree in Electronics and embedded Systems.
+I'm Aboubacar Bagayoko, an Embedded Software and IOT Engineer from France with a Master's degree in Electronics and embedded Systems. Currently working as a software freelance engineer
 
 <!--
 **bagayoko89/bagayoko89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
